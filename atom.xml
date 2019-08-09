@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pinguz.github.io</id>
     <title>Pinguz</title>
-    <updated>2019-08-09T07:57:18.360Z</updated>
+    <updated>2019-08-09T09:14:38.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pinguz.github.io"/>
     <link rel="self" href="https://pinguz.github.io/atom.xml"/>
@@ -11,18 +11,67 @@
     <icon>https://pinguz.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Pinguz</rights>
     <entry>
-        <title type="html"><![CDATA[从设计师的角度分析，主流视频网站有何功能亮点？]]></title>
-        <id>https://pinguz.github.io/post/cong-she-ji-shi-de-jiao-du-fen-xi-zhu-liu-shi-pin-wang-zhan-you-he-gong-neng-liang-dian</id>
-        <link href="https://pinguz.github.io/post/cong-she-ji-shi-de-jiao-du-fen-xi-zhu-liu-shi-pin-wang-zhan-you-he-gong-neng-liang-dian">
+        <title type="html"><![CDATA[PC改版前准备——视频类产品竞品分析]]></title>
+        <id>https://pinguz.github.io/post/pc-jingpinfenxi</id>
+        <link href="https://pinguz.github.io/post/pc-jingpinfenxi">
         </link>
         <updated>2019-08-09T07:20:06.000Z</updated>
-        <summary type="html"><![CDATA[<pre><code>本文主要针对爱奇艺、优酷、腾讯视频的网页版首页部分进行分析，希望通过竞品分析发现同类产品的功能亮点，发现其传递品牌文化和产品理念的方式
-</code></pre>
+        <summary type="html"><![CDATA[<blockquote>
+<p>本文主要针对爱奇艺、优酷、腾讯视频的网页版首页部分进行分析，希望通过竞品分析发现同类产品的功能亮点，发现其传递品牌文化和产品理念的方式</p>
+</blockquote>
 ]]></summary>
-        <content type="html"><![CDATA[<pre><code>本文主要针对爱奇艺、优酷、腾讯视频的网页版首页部分进行分析，希望通过竞品分析发现同类产品的功能亮点，发现其传递品牌文化和产品理念的方式
-</code></pre>
+        <content type="html"><![CDATA[<blockquote>
+<p>本文主要针对爱奇艺、优酷、腾讯视频的网页版首页部分进行分析，希望通过竞品分析发现同类产品的功能亮点，发现其传递品牌文化和产品理念的方式</p>
+</blockquote>
 <!-- more -->
-<p>研究对象：腾讯视频、爱奇艺、优酷网页版首页</p>
+<p><strong>研究对象</strong>：腾讯视频、爱奇艺、优酷网页版首页<br>
+<strong>研究内容</strong>：</p>
+<ul>
+<li>功能模块导航</li>
+<li>版块布局</li>
+<li>互动体验</li>
+<li>设计风格</li>
+<li>界面架构<br>
+<strong>用户人群画像</strong>：<br>
+<img src="https://pinguz.github.io/post-images/1565339723248.png" alt=""><br>
+主流视频网站近期百度指数<br>
+通过百度指数可以发现视频类产品用户主要分布的南方地区，中年男性居多<br>
+<strong>这些元素在设计上可以借鉴的是：</strong></li>
+</ul>
+<blockquote>
+<ol>
+<li>网站的文字、图片可以适当偏大些；</li>
+<li>页面结构更加清晰；</li>
+<li>可以推出卫视同步模块，吸引部分通过电视端播放吸引过来的中老年用户。</li>
+</ol>
+</blockquote>
+<h3 id="焦点图部分对比">焦点图部分对比</h3>
+<p><em>形标注表示差异点，矩形表示相同部分。</em><br>
+<strong>1.腾讯视频</strong><br>
+<img src="https://pinguz.github.io/post-images/1565341088201.png" alt=""><br>
+腾讯视频焦点图适配对比<br>
+<strong>焦点图：</strong></p>
+<ol>
+<li>“大家都在看”模块共展示16张图</li>
+<li>“重磅推荐”模块共展示9张图</li>
+<li>焦点图文案部分始终靠右侧<br>
+<strong>文案：</strong></li>
+<li>文案简短</li>
+<li>选中状态横向展示出描述文案<br>
+<strong>分类：</strong></li>
+<li>大屏时显示分类图标、应用中心入口</li>
+<li>展示更多的热门分类</li>
+<li>顶部显示VIP影院入口<br>
+<strong>可借鉴的地方：</strong></li>
+</ol>
+<blockquote>
+<ol>
+<li>适配规律；</li>
+<li>频道分类清晰明确；</li>
+<li>焦点图文案精简便于快速理解；</li>
+<li>大屏时出现主要频道分类的icon，页面更加精致。</li>
+</ol>
+</blockquote>
 ]]></content>
     </entry>
     <entry>
