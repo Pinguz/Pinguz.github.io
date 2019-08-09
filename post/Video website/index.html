@@ -30,29 +30,9 @@
       
         <div class="animated fadeInLeft" style="animation-delay: 0.4s">
           <p class="my-4 text-gray-600 font-light hidden lg:block">
-            All You Need Is Love
+            文章目录
           </p>
-          <div class="animated fadeInLeft social-container hidden lg:block" style="animation-delay: 0.6s">
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
+          <div class="toc-container hidden lg:block">
             
           </div>
         </div>
@@ -97,35 +77,84 @@
 </div>
 <div class="mask" onclick="closeMenu()">
 </div>
-      <div class="content-wrapper py-32 lg:p-8 lg:w-3/4">
-        <h2 class="text-lg text-gray-700 mb-8">
-          <i class="remixicon-bookmark-line"></i> Gridea
-        </h2>
-        
-  <section class="post-item md:flex pb-12 animated fadeIn" :style="{ 'animation-delay': `${0 * 0.2}s` }">
-    
-      <a href="https://pinguz.github.io/post/hello-gridea" class="feature-image-wrapper bg-gray-100 rounded-lg flex-shrink-0 mr-8 w-full h-56 h-32 md:w-56 md:h-40">
-        <div class="post-feature-image lazy w-full h-56 h-32 md:w-56 md:h-40" data-bg="'https://pinguz.github.io/post-images/hello-gridea.png'">
+      <div class="content-wrapper py-32 lg:p-8 lg:w-3/4 post-detail animated fadeIn">
+        <h1 class="text-3xl font-bold lg:mt-16">视频网站设计</h1>
+        <div class="text-sm text-gray-700 lg:my-8">
+          2019-07-01 / 1 min read
         </div>
-      </a>
-    
-    <div class="content">
-      <a href="https://pinguz.github.io/post/hello-gridea">
-        <h2 class="post-title text-xl font-extrabold mt-5 md:mt-0">Hello Gridea</h2>
-      </a>
-      <div class="post-abstract text-gray-700 font-light my-4">
-        <p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+        
+          <img class="post-feature-image rounded-lg mx-auto my-4" src="https://pinguz.github.io/post-images/Video website.png" alt="">
+        
+        <div class="post-content yue">
+          <p>前期根据已有的用户数据结合用户反馈，以及现有的视频资源，找出用户痛点，提出改善方案。通过对焦点图、首页导航等模块的修改，结合新的交互方式，提升用户的浏览体验。</p>
+<!-- more -->
+<p><img src="https://pinguz.github.io/post-images/1565320673657.jpg" alt=""><br>
+<img src="https://pinguz.github.io/post-images/1565320706906.png" alt=""><br>
+<img src="https://pinguz.github.io/post-images/1565320720025.gif" alt=""><br>
+<img src="https://pinguz.github.io/post-images/1565320741739.png" alt=""><br>
+<img src="https://pinguz.github.io/post-images/1565320758276.gif" alt=""><br>
+<img src="https://pinguz.github.io/post-images/1565320769326.png" alt=""><br>
+<img src="https://pinguz.github.io/post-images/1565320779796.png" alt=""></p>
 
-      </div>
-      <div class="text-gray-400 text-sm font-light">2018-12-12 / 1 min read</div>
-    </div>
-  </section>
+        </div>
 
-        <div class="pagination-container animated fadeIn">
-  
-  
-</div>
+        
+          <a class="animated fadeInUp p-2 items-center text-sm text-gray-700 border hover:bg-gray-300 leading-none rounded-full flex lg:inline-flex m-4 " href="https://pinguz.github.io/tag/us4tVDLQyg">
+            <span class="flex-auto">网页设计</span>
+          </a>
+        
+          <a class="animated fadeInUp p-2 items-center text-sm text-gray-700 border hover:bg-gray-300 leading-none rounded-full flex lg:inline-flex m-4 " href="https://pinguz.github.io/tag/q9FSK0eEnP">
+            <span class="flex-auto">交互设计</span>
+          </a>
+        
+          <a class="animated fadeInUp p-2 items-center text-sm text-gray-700 border hover:bg-gray-300 leading-none rounded-full flex lg:inline-flex m-4 " href="https://pinguz.github.io/tag/rOSx4SsQyr">
+            <span class="flex-auto">用户体验</span>
+          </a>
+        
+
+
+        <div class="flex justify-between py-8">
+          
+
+          
+            <div class="next-post">
+              <a href="https://pinguz.github.io/post/hello-gridea">
+                <h3 class="post-title">
+                  Hello Gridea
+                  <i class="remixicon-arrow-right-line"></i>
+                </h3>
+              </a>
+            </div>
+          
+        </div>
+
+        
+          
+            <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+
+<div id="gitalk-container"></div>
+
+<script>
+
+  var gitalk = new Gitalk({
+    clientID: '6faf94d9df4082e587ef',
+    clientSecret: 'fc2850d9e473fcb54349784b84a4ae5eebd80319',
+    repo: 'Pinguz.github.io',
+    owner: 'Pinguz',
+    admin: ['Pinguz'],
+    id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+    distractionFreeMode: false  // Facebook-like distraction free mode
+  })
+
+  gitalk.render('gitalk-container')
+
+</script>
+
+          
+
+          
+        
 
       </div>
     </div>
