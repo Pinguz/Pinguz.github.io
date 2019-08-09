@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pinguz.github.io</id>
     <title>Pinguz</title>
-    <updated>2019-08-09T07:16:10.692Z</updated>
+    <updated>2019-08-09T07:36:27.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pinguz.github.io"/>
     <link rel="self" href="https://pinguz.github.io/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://pinguz.github.io/images/avatar.png</logo>
     <icon>https://pinguz.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Pinguz</rights>
+    <entry>
+        <title type="html"><![CDATA[从设计师的角度分析，主流视频网站有何功能亮点？]]></title>
+        <id>https://pinguz.github.io/post/cong-she-ji-shi-de-jiao-du-fen-xi-zhu-liu-shi-pin-wang-zhan-you-he-gong-neng-liang-dian</id>
+        <link href="https://pinguz.github.io/post/cong-she-ji-shi-de-jiao-du-fen-xi-zhu-liu-shi-pin-wang-zhan-you-he-gong-neng-liang-dian">
+        </link>
+        <updated>2019-08-09T07:20:06.000Z</updated>
+        <summary type="html"><![CDATA[<pre><code>本文主要针对爱奇艺、优酷、腾讯视频的网页版首页部分进行分析，希望通过竞品分析发现同类产品的功能亮点，发现其传递品牌文化和产品理念的方式
+</code></pre>
+]]></summary>
+        <content type="html"><![CDATA[<pre><code>本文主要针对爱奇艺、优酷、腾讯视频的网页版首页部分进行分析，希望通过竞品分析发现同类产品的功能亮点，发现其传递品牌文化和产品理念的方式
+</code></pre>
+<!-- more -->
+<p>研究对象：腾讯视频、爱奇艺、优酷网页版首页</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[视频网站设计]]></title>
         <id>https://pinguz.github.io/post/Video-website</id>
@@ -21,7 +36,7 @@
         <content type="html"><![CDATA[<p>前期根据已有的用户数据结合用户反馈，以及现有的视频资源，找出用户痛点，提出改善方案。通过对焦点图、首页导航等模块的修改，结合新的交互方式，提升用户的浏览体验。</p>
 <!-- more -->
 <p>通过竞品分析、流行趋势分析，吸取各家所长，结合自身品牌特色，确定视觉风格，采用新的交互方式提升网站的整体用户体验。同时适配多种屏幕尺寸，优化小屏幕及宽屏用户体验，给用户提供更好的使用体验</p>
-<p>前往体验：<a href=""></a>https://tv.sohu.com/</p>
+<p>前往体验:<a href="https://tv.sohu.com">搜狐视频</a></p>
 <p><img src="https://pinguz.github.io/post-images/1565325123456.jpg" alt=""><br>
 <img src="https://pinguz.github.io/post-images/1565325132077.png" alt=""><br>
 <img src="https://pinguz.github.io/post-images/1565325148602.gif" alt=""><br>
