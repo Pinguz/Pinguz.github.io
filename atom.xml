@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pinguz.github.io</id>
     <title>Pinguz</title>
-    <updated>2019-08-09T10:22:38.473Z</updated>
+    <updated>2019-08-09T10:35:41.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pinguz.github.io"/>
     <link rel="self" href="https://pinguz.github.io/atom.xml"/>
@@ -11,11 +11,26 @@
     <icon>https://pinguz.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Pinguz</rights>
     <entry>
+        <title type="html"><![CDATA[视频网站设计]]></title>
+        <id>https://pinguz.github.io/post/Video-website</id>
+        <link href="https://pinguz.github.io/post/Video-website">
+        </link>
+        <updated>2019-07-01T03:08:49.000Z</updated>
+        <summary type="html"><![CDATA[<p>前期根据已有的用户数据结合用户反馈，以及现有的视频资源，找出用户痛点，提出改善方案。通过对焦点图、首页导航等模块的修改，结合新的交互方式，提升用户的浏览体验。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>前期根据已有的用户数据结合用户反馈，以及现有的视频资源，找出用户痛点，提出改善方案。通过对焦点图、首页导航等模块的修改，结合新的交互方式，提升用户的浏览体验。</p>
+<!-- more -->
+<p>通过竞品分析、流行趋势分析，吸取各家所长，结合自身品牌特色，确定视觉风格，采用新的交互方式提升网站的整体用户体验。同时适配多种屏幕尺寸，优化小屏幕及宽屏用户体验，给用户提供更好的使用体验</p>
+<p>前往体验:<a href="https://tv.sohu.com">搜狐视频</a></p>
+<p><img src="https://pinguz.github.io/post-images/1565325123456.png" /><img src="https://pinguz.github.io/post-images/1565325132077.png" /><img src="https://pinguz.github.io/post-images/1565325148602.gif" /><img src="https://pinguz.github.io/post-images/1565329434532.png" /><img src="https://pinguz.github.io/post-images/1565329448969.gif" /><img src="https://pinguz.github.io/post-images/1565329463969.png" /><img src="https://pinguz.github.io/post-images/1565329463969.png" /></p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[PC改版前准备——视频类产品竞品分析]]></title>
         <id>https://pinguz.github.io/post/pc-jingpinfenxi</id>
         <link href="https://pinguz.github.io/post/pc-jingpinfenxi">
         </link>
-        <updated>2019-08-09T07:20:06.000Z</updated>
+        <updated>2019-05-17T07:20:06.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
 <p>本文主要针对爱奇艺、优酷、腾讯视频的网页版首页部分进行分析，希望通过竞品分析发现同类产品的功能亮点，发现其传递品牌文化和产品理念的方式</p>
 </blockquote>
@@ -49,16 +64,19 @@
 <p>圆形标注表示差异点，矩形表示相同部分。<br>
 <strong>1.腾讯视频</strong><br>
 <img src="https://pinguz.github.io/post-images/1565341088201.png" alt=""><br>
-腾讯视频焦点图适配对比<br>
 <strong>焦点图：</strong></p>
 <ul>
 <li>“大家都在看”模块共展示16张图</li>
 <li>“重磅推荐”模块共展示9张图</li>
-<li>焦点图文案部分始终靠右侧<br>
-<strong>文案：</strong></li>
+<li>焦点图文案部分始终靠右侧</li>
+</ul>
+<p><strong>文案：</strong></p>
+<ul>
 <li>文案简短</li>
-<li>选中状态横向展示出描述文案<br>
-<strong>分类：</strong></li>
+<li>选中状态横向展示出描述文案</li>
+</ul>
+<p><strong>分类：</strong></p>
+<ul>
 <li>大屏时显示分类图标、应用中心入口</li>
 <li>展示更多的热门分类</li>
 <li>顶部显示VIP影院入口</li>
@@ -77,13 +95,15 @@
 <strong>焦点图：</strong></p>
 <ul>
 <li>共10张</li>
-<li>大屏时背景渐变为黑色<br>
-<strong>文案：</strong></li>
-<li>主副标题在一行显示，文案过长；</li>
-<li>选中状态变成两行。<br>
-<strong>分类：</strong> 小屏时显示为三行，大屏时变成两行。<br>
-<strong>顶部按钮：</strong> 小屏时只显示图标，大屏时显示图标跟文案。</li>
+<li>大屏时背景渐变为黑色</li>
 </ul>
+<p><strong>文案：</strong></p>
+<ul>
+<li>主副标题在一行显示，文案过长；</li>
+<li>选中状态变成两行。</li>
+</ul>
+<p><strong>分类：</strong> 小屏时显示为三行，大屏时变成两行</p>
+<p><strong>顶部按钮：</strong> 小屏时只显示图标，大屏时显示图标跟文案。</p>
 <p><strong>可借鉴的地方：</strong></p>
 <blockquote>
 <p>小屏幕时，只显示图标，大屏时显示图标跟文案。</p>
@@ -174,8 +194,8 @@
 </blockquote>
 <h3 id="主要模块对比">主要模块对比</h3>
 <p><img src="https://pinguz.github.io/post-images/1565343256731.png" alt="腾讯视频首页特色模块"><br>
-<strong>腾讯视频首页特色模块</strong></p>
-<p><strong>可借鉴的地方：</strong></p>
+腾讯视频首页特色模块<br>
+<strong>可借鉴的地方：</strong></p>
 <blockquote>
 <ol>
 <li>标出可翻页的页数，更直观显示内容多少；</li>
@@ -185,14 +205,14 @@
 </ol>
 </blockquote>
 <p><img src="https://pinguz.github.io/post-images/1565343320543.png" alt="爱奇艺首页特色模块"><br>
-<strong>爱奇艺视频首页特色模块</strong></p>
-<p><strong>可借鉴的地方：</strong></p>
+爱奇艺视频首页特色模块<br>
+<strong>可借鉴的地方：</strong></p>
 <blockquote>
 <p>第一个视频位可翻页，可展示更多信息。</p>
 </blockquote>
 <p><img src="https://pinguz.github.io/post-images/1565343373829.png" alt=""><br>
-<strong>优酷首页特色模块</strong></p>
-<p><strong>可借鉴的地方：</strong></p>
+优酷首页特色模块<br>
+<strong>可借鉴的地方：</strong></p>
 <blockquote>
 <ol>
 <li>优酷的分类标签部分更注重互动的友好性，鼠标滑过自动切换，在一个页面即时互动；</li>
@@ -258,7 +278,7 @@
 <li>哔哩哔哩( ゜- ゜)つロ 干杯～bilibili</li>
 <li>芒果TV-看见好时光</li>
 <li>搜狐视频-中国领先的综合视频网站，正版高清视频在线观看，原创视频上传，全网视频搜索<br>
-对比可发现，优酷的宣传语是带声音的，而且朗朗上口，很容易给人留下印象；哔哩哔哩的宣传语很适合产品的定位，让用户有归宿感。</li>
+<strong>对比可发现，优酷的宣传语是带声音的，而且朗朗上口，很容易给人留下印象；哔哩哔哩的宣传语很适合产品的定位，让用户有归宿感。</strong></li>
 </ul>
 <p><strong>可借鉴的地方：</strong></p>
 <blockquote>
@@ -270,9 +290,9 @@
 <li>腾讯：以“不负好时光”为产品slogan，主打原创短视频、自制综艺；</li>
 <li>爱奇艺：以“悦享品质”为产品slogan，主打娱乐、综艺、网剧；</li>
 <li>优酷：没有slogan，主打电视剧、网剧。<br>
-<img src="https://pinguz.github.io/post-images/1565345541293.png" alt=""><br>
-<strong>腾讯视频：</strong> 结构清晰，不同模块类型穿插，样式不单一</li>
+<img src="https://pinguz.github.io/post-images/1565345541293.png" alt=""></li>
 </ul>
+<p><strong>腾讯视频：</strong> 结构清晰，不同模块类型穿插，样式不单一</p>
 <p><strong>爱奇艺：</strong> 图片间距近，信息量巨大，图片颜色多，相对艳丽一些</p>
 <p><strong>优酷：</strong> 图片比较大，样式相对单一，但是能看出品牌色-蓝色、红色更为突出</p>
 <p><strong>可借鉴的地方：</strong></p>
@@ -296,28 +316,13 @@
 <blockquote>
 <ol>
 <li>定制首屏，只推荐我感兴趣的内容，例如：新闻、电影、动漫之类，可以飘着弹幕；</li>
-<li>只显示图片，满屏的图片信息可供选择（瀑布流显示信息，一屏显示，可以不断刷新）。</li>
+<li>只显示图片，满屏的图片信息可供选择（瀑布流显示信息，一屏显示，可以不断刷新）。<br>
+<img src="https://pinguz.github.io/post-images/1565346474145.png" alt=""><br>
+<img src="https://pinguz.github.io/post-images/1565346480141.png" alt=""><br>
+<img src="https://pinguz.github.io/post-images/1565346485734.png" alt=""><br>
+这次只是初步的分析，都是浮于表面现象，接下来会针对局部的功能进行更深入的分析，敬请期待~</li>
 </ol>
 </blockquote>
-<p><img src="https://pinguz.github.io/post-images/1565346103723.png" alt=""><br>
-<img src="https://pinguz.github.io/post-images/1565346117502.png" alt=""><br>
-<img src="https://pinguz.github.io/post-images/1565346123618.png" alt=""><br>
-这次只是初步的分析，都是浮于表面现象，接下来会针对局部的功能进行更深入的分析，敬请期待~</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[视频网站设计]]></title>
-        <id>https://pinguz.github.io/post/Video-website</id>
-        <link href="https://pinguz.github.io/post/Video-website">
-        </link>
-        <updated>2019-07-01T03:08:49.000Z</updated>
-        <summary type="html"><![CDATA[<p>前期根据已有的用户数据结合用户反馈，以及现有的视频资源，找出用户痛点，提出改善方案。通过对焦点图、首页导航等模块的修改，结合新的交互方式，提升用户的浏览体验。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>前期根据已有的用户数据结合用户反馈，以及现有的视频资源，找出用户痛点，提出改善方案。通过对焦点图、首页导航等模块的修改，结合新的交互方式，提升用户的浏览体验。</p>
-<!-- more -->
-<p>通过竞品分析、流行趋势分析，吸取各家所长，结合自身品牌特色，确定视觉风格，采用新的交互方式提升网站的整体用户体验。同时适配多种屏幕尺寸，优化小屏幕及宽屏用户体验，给用户提供更好的使用体验</p>
-<p>前往体验:<a href="https://tv.sohu.com">搜狐视频</a></p>
-<p><img src="https://pinguz.github.io/post-images/1565325123456.png" /><img src="https://pinguz.github.io/post-images/1565325132077.png" /><img src="https://pinguz.github.io/post-images/1565325148602.gif" /><img src="https://pinguz.github.io/post-images/1565329434532.png" /><img src="https://pinguz.github.io/post-images/1565329448969.gif" /><img src="https://pinguz.github.io/post-images/1565329463969.png" /><img src="https://pinguz.github.io/post-images/1565329463969.png" /></p>
 ]]></content>
     </entry>
     <entry>
