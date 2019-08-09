@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pinguz.github.io</id>
     <title>Pinguz</title>
-    <updated>2019-08-09T10:57:32.017Z</updated>
+    <updated>2019-08-09T11:14:48.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pinguz.github.io"/>
     <link rel="self" href="https://pinguz.github.io/atom.xml"/>
@@ -323,6 +323,27 @@
 这次只是初步的分析，都是浮于表面现象，接下来会针对局部的功能进行更深入的分析，敬请期待~</li>
 </ol>
 </blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Word Redesign]]></title>
+        <id>https://pinguz.github.io/post/microsoft-word-redesign</id>
+        <link href="https://pinguz.github.io/post/microsoft-word-redesign">
+        </link>
+        <updated>2019-03-21T11:07:05.000Z</updated>
+        <summary type="html"><![CDATA[<p>尝试对Word ios端进行完善</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>尝试对Word ios端进行完善</p>
+<!-- more -->
+<p>第一次尝试工具类产品的设计</p>
+<blockquote>
+<ol>
+<li>首先确定产品、品牌、用户的定位，确定视觉方向，从产品开始发散，逐渐具象、视觉化。</li>
+<li>根据收集的信息归纳出关键词：高效、专业、强大、工具，视觉延伸：冷色系（中性色、深灰色）、低饱和度、厚重（可靠、理性）、结构清晰</li>
+<li>运用关键词完善设计语言：正负形、描边、色彩、圆角、大小、质感、动效</li>
+</ol>
+</blockquote>
+<p><img src="https://pinguz.github.io/post-images/1565349171312.png" /><img src="https://pinguz.github.io/post-images/1565349175942.png" /><img src="https://pinguz.github.io/post-images/1565349182083.png" /><img src="https://pinguz.github.io/post-images/1565349185382.png" /><img src="https://pinguz.github.io/post-images/1565349189254.png" /></p>
 ]]></content>
     </entry>
     <entry>
