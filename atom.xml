@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pinguz.github.io</id>
     <title>Pinguz</title>
-    <updated>2019-08-12T13:06:41.663Z</updated>
+    <updated>2019-08-12T13:11:36.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pinguz.github.io"/>
     <link rel="self" href="https://pinguz.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://pinguz.github.io/images/avatar.png</logo>
     <icon>https://pinguz.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Pinguz</rights>
+    <entry>
+        <title type="html"><![CDATA[测试]]></title>
+        <id>https://pinguz.github.io/post/ce-shi</id>
+        <link href="https://pinguz.github.io/post/ce-shi">
+        </link>
+        <updated>2019-08-12T13:11:21.000Z</updated>
+        <content type="html"><![CDATA[<p>测试</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[视频网站设计]]></title>
         <id>https://pinguz.github.io/post/Video-website</id>
@@ -456,23 +465,6 @@
 <p>未来一定会是虚拟现实的时代，但是任何先进的技术都是一把双刃剑。因为现代社会压力越大，人们就越倾向于逃避现实，虚拟现实会是大家解压、逃避的首选之路。</p>
 <p>希望虚拟现实技术不仅用于娱乐方面，也可以用在医疗、教育等更多的行业，可以用虚拟现实技术来帮助抑郁症的患者缓解病情。期待可以早点见证这些。<br>
 <img src="https://pinguz.github.io/post-images/1565582505644.png" alt=""></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[智能手表管家-概念设计]]></title>
-        <id>https://pinguz.github.io/post/smart-watch</id>
-        <link href="https://pinguz.github.io/post/smart-watch">
-        </link>
-        <updated>2015-08-31T03:08:38.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>屏幕变小后，设计师可以有更多时间去思考</p>
-</blockquote>
-]]></summary>
-        <content type="html"><![CDATA[<blockquote>
-<p>屏幕变小后，设计师可以有更多时间去思考</p>
-</blockquote>
-<!-- more -->
-<p><img src="https://pinguz.github.io/post-images/1565579373734.png" alt=""></p>
 ]]></content>
     </entry>
 </feed>
