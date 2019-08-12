@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pinguz.github.io</id>
     <title>Pinguz</title>
-    <updated>2019-08-12T13:20:36.440Z</updated>
+    <updated>2019-08-12T13:58:11.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pinguz.github.io"/>
     <link rel="self" href="https://pinguz.github.io/atom.xml"/>
@@ -10,15 +10,6 @@
     <logo>https://pinguz.github.io/images/avatar.png</logo>
     <icon>https://pinguz.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Pinguz</rights>
-    <entry>
-        <title type="html"><![CDATA[测试]]></title>
-        <id>https://pinguz.github.io/post/ce-shi</id>
-        <link href="https://pinguz.github.io/post/ce-shi">
-        </link>
-        <updated>2019-08-12T13:11:21.000Z</updated>
-        <content type="html"><![CDATA[<p>测试</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[视频网站设计]]></title>
         <id>https://pinguz.github.io/post/Video-website</id>
@@ -430,6 +421,25 @@
 <p><a href="https://vimeo.com/221275113">The Holstee Manifesto</a> from <a href="https://vimeo.com/zhaojingjing">pinguz</a> on <a href="https://vimeo.com">Vimeo</a>.</p>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[启动页设计]]></title>
+        <id>https://pinguz.github.io/post/56</id>
+        <link href="https://pinguz.github.io/post/56">
+        </link>
+        <updated>2016-11-01T13:51:05.000Z</updated>
+        <summary type="html"><![CDATA[<p>业务诉求：品牌年轻化、提高品质感</p>
+<blockquote>
+<p>运用年轻、有活力的元素来设计引导页，增加用户初次使用的亲切感</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<p>业务诉求：品牌年轻化、提高品质感</p>
+<blockquote>
+<p>运用年轻、有活力的元素来设计引导页，增加用户初次使用的亲切感</p>
+</blockquote>
+<!-- more -->
+<p><img src="https://pinguz.github.io/post-images/1565618058369.png" /><img src="https://pinguz.github.io/post-images/1565618081909.gif" /><img src="https://pinguz.github.io/post-images/1565618089782.png" /><img src="https://pinguz.github.io/post-images/1565618105754.gif" /></p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[第三届搜狐视频出品人大会 宣传海报]]></title>
         <id>https://pinguz.github.io/post/chu-pin-ren</id>
         <link href="https://pinguz.github.io/post/chu-pin-ren">
@@ -447,24 +457,23 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[VR产品设计]]></title>
-        <id>https://pinguz.github.io/post/vr</id>
-        <link href="https://pinguz.github.io/post/vr">
+        <title type="html"><![CDATA[App Preview]]></title>
+        <id>https://pinguz.github.io/post/app-preview</id>
+        <link href="https://pinguz.github.io/post/app-preview">
         </link>
-        <updated>2016-09-01T03:12:36.000Z</updated>
-        <summary type="html"><![CDATA[<p>第一次接触VR设计</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>第一次接触VR设计</p>
-<!-- more -->
-<p>首先是全景图，需要在3dMax的场景里创建一个摄像机，然后将导出的图片合成全景图。</p>
-<p>然后在Unity3D里加载场景图片，搭建UI控件，之前做界面都是X、Y两个纬度，这次多了一个Z轴，感觉还挺有意思的，而且设计上考虑的东西也不一样了，在眼镜端的操作界面里交互多是通过头部、眼部动作识别的，长时间的话很容易头晕，所以设计上尽量避免大幅度的交互。</p>
-<p>这个项目进行了大概半年时间，完成了眼镜端的界面、场景设计。后期主要是维护客户端更新。</p>
+        <updated>2016-10-03T13:11:21.000Z</updated>
+        <summary type="html"><![CDATA[<p>针对搜狐视频6.0全新改版上线设计的视频，放在Apple store上面</p>
 <blockquote>
-<p>总体来说是一个有趣的项目，可以学习很多新知识，而且VR、AR真的蛮吸引人的。但是整体的体验还是不太舒适，长时间的话头部负重、视觉疲劳、头晕等症状还是很明显。</p>
+<p>主要用于推广自媒体频道，包括科技、星座、汽车、旅游、做饭、美妆等等<br>
+通过具有亲和力的动画效果，让用户快速了解每个频道的主打内容</p>
 </blockquote>
-<p>未来一定会是虚拟现实的时代，但是任何先进的技术都是一把双刃剑。因为现代社会压力越大，人们就越倾向于逃避现实，虚拟现实会是大家解压、逃避的首选之路。</p>
-<p>希望虚拟现实技术不仅用于娱乐方面，也可以用在医疗、教育等更多的行业，可以用虚拟现实技术来帮助抑郁症的患者缓解病情。期待可以早点见证这些。<br>
-<img src="https://pinguz.github.io/post-images/1565582505644.png" alt=""></p>
+]]></summary>
+        <content type="html"><![CDATA[<p>针对搜狐视频6.0全新改版上线设计的视频，放在Apple store上面</p>
+<blockquote>
+<p>主要用于推广自媒体频道，包括科技、星座、汽车、旅游、做饭、美妆等等<br>
+通过具有亲和力的动画效果，让用户快速了解每个频道的主打内容</p>
+</blockquote>
+<!-- more -->
 ]]></content>
     </entry>
 </feed>
