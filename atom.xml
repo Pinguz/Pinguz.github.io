@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pinguz.github.io</id>
     <title>Pinguz</title>
-    <updated>2019-08-12T13:58:11.546Z</updated>
+    <updated>2019-08-12T14:29:01.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pinguz.github.io"/>
     <link rel="self" href="https://pinguz.github.io/atom.xml"/>
@@ -349,19 +349,57 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[H5 运营活动-口红机小游戏]]></title>
-        <id>https://pinguz.github.io/post/h5-kou-hong</id>
-        <link href="https://pinguz.github.io/post/h5-kou-hong">
+        <title type="html"><![CDATA[2019年 元宵节]]></title>
+        <id>https://pinguz.github.io/post/2019-yuan-xiao-jie</id>
+        <link href="https://pinguz.github.io/post/2019-yuan-xiao-jie">
         </link>
-        <updated>2019-02-14T10:41:05.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>流行热点结合推广剧集，提高用户活跃度</strong></p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>流行热点结合推广剧集，提高用户活跃度</strong></p>
-<!-- more -->
+        <updated>2019-02-19T14:09:28.000Z</updated>
+        <summary type="html"><![CDATA[<p>北方的元宵、南方的汤圆都是好吃又可爱的食物</p>
 <blockquote>
-<p>结合抖音热点“线下口红机”，以及热播剧集《奈何BOSS要娶我》，设计了一款以女性用户为主的插口红小游戏，线上玩游戏，线下可以获得真实的口红产品。希望通过这个活动提高用户的活跃度。</p>
+<p>尝试将插画3D化，果然更萌了～</p>
 </blockquote>
-<p><img src="https://pinguz.github.io/post-images/1565347849856.png" /><img src="https://pinguz.github.io/post-images/1565347856368.gif" /><img src="https://pinguz.github.io/post-images/1565348168037.png" /></p>
+]]></summary>
+        <content type="html"><![CDATA[<p>北方的元宵、南方的汤圆都是好吃又可爱的食物</p>
+<blockquote>
+<p>尝试将插画3D化，果然更萌了～</p>
+</blockquote>
+<!-- more -->
+<p><img src="https://pinguz.github.io/post-images/1565532719825.png" alt=""></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello 2019]]></title>
+        <id>https://pinguz.github.io/post/hello-2019</id>
+        <link href="https://pinguz.github.io/post/hello-2019">
+        </link>
+        <updated>2019-01-28T14:35:58.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>尝试运用中国风元素结合线条、色块，设计一款偏扁平化的插画效果</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>尝试运用中国风元素结合线条、色块，设计一款偏扁平化的插画效果</p>
+</blockquote>
+<!-- more -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[H5运营活动-娱乐年终总结]]></title>
+        <id>https://pinguz.github.io/post/h5-yulezongjie</id>
+        <link href="https://pinguz.github.io/post/h5-yulezongjie">
+        </link>
+        <updated>2019-01-11T14:54:19.000Z</updated>
+        <summary type="html"><![CDATA[<p>2018年底针对年度热点娱乐事件总结的答题类H5，主要投放在粉丝圈。</p>
+<blockquote>
+<p>针对饭圈文化以及艺人的风格，视觉设计上偏向绚丽动感</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<p>2018年底针对年度热点娱乐事件总结的答题类H5，主要投放在粉丝圈。</p>
+<blockquote>
+<p>针对饭圈文化以及艺人的风格，视觉设计上偏向绚丽动感</p>
+</blockquote>
+<!-- more -->
+<p><img src="https://pinguz.github.io/post-images/1565535650334.gif" /><img src="https://pinguz.github.io/post-images/1565535656951.jpg" /></p>
 ]]></content>
     </entry>
     <entry>
@@ -382,98 +420,58 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[微动效设计]]></title>
-        <id>https://pinguz.github.io/post/gif</id>
-        <link href="https://pinguz.github.io/post/gif">
+        <title type="html"><![CDATA[微信小游戏-消除类游戏设计]]></title>
+        <id>https://pinguz.github.io/post/gamedesign-xiaochu</id>
+        <link href="https://pinguz.github.io/post/gamedesign-xiaochu">
         </link>
-        <updated>2017-07-04T07:49:13.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>一些弹层、刷新的小动效</p>
-</blockquote>
+        <updated>2018-08-10T12:36:04.000Z</updated>
+        <summary type="html"><![CDATA[<p>这是2018年做的最后一款小游戏，也是最复杂的一款小游戏了。</p>
+<p>项目初期希望可以设计一款适合年轻女性用户的小游戏，男女差异会影响游戏的偏好。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<blockquote>
-<p>一些弹层、刷新的小动效</p>
-</blockquote>
+        <content type="html"><![CDATA[<p>这是2018年做的最后一款小游戏，也是最复杂的一款小游戏了。</p>
+<p>项目初期希望可以设计一款适合年轻女性用户的小游戏，男女差异会影响游戏的偏好。</p>
 <!-- more -->
-<p><img src="https://pinguz.github.io/post-images/1565596297986.gif" alt=""><br>
-<img src="https://pinguz.github.io/post-images/1565596306197.gif" alt=""><br>
-<img src="https://pinguz.github.io/post-images/1565596321183.gif" alt=""><br>
-<img src="https://pinguz.github.io/post-images/1565596327242.gif" alt=""><br>
-<img src="https://pinguz.github.io/post-images/1565596337861.gif" alt=""><br>
-<img src="https://pinguz.github.io/post-images/1565596332793.gif" alt=""></p>
+<blockquote>
+<p>女性在进化的过程中主要负责采集等任务，这种进化过程中的分工导致女性相对于男性更喜欢<strong>搜集类、经营类等休闲游戏。</strong></p>
+</blockquote>
+<p>最后在文字冒险、猜谜、消除类游戏中选择了消除类游戏这个方向。</p>
+<p>消除类游戏虽然玩法简单但是很受欢迎，历史悠久，目前市场上有很多经典款的游戏，例如开心消消乐、宾果消消消、天天爱消除等等。</p>
+<blockquote>
+<p>根据极光大数据的统计结果显示，过去一年女性玩家在消除类游戏中始终占据着较高的比例，截止到今年7月份，<strong>女性游戏玩家占比高达68.5%，男性玩家为31.5%，游戏玩家规模超1.7亿。</strong> 26-35岁用户的占比达到53.4%，为主要年龄分布。</p>
+</blockquote>
+<p>根据这些数据，在设计游戏的时候选择了清新可爱的风格，结合了女性用户喜欢的萌宠形象，希望可以营造出轻松娱乐的氛围。</p>
+<p><img src="https://pinguz.github.io/post-images/1565530707723.png" /><img src="https://pinguz.github.io/post-images/1565530718762.png" /><img src="https://pinguz.github.io/post-images/1565530756575.gif" /><img src="https://pinguz.github.io/post-images/1565530762630.gif" /><img src="https://pinguz.github.io/post-images/1565530770172.png" /><img src="https://pinguz.github.io/post-images/1565530775580.png" /><img src="https://pinguz.github.io/post-images/1565530780216.png" /><img src="https://pinguz.github.io/post-images/1565530786651.png" /><img src="https://pinguz.github.io/post-images/1565530791785.png" /><img src="https://pinguz.github.io/post-images/1565530797976.png" /></p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This is your life]]></title>
-        <id>https://pinguz.github.io/post/this-is-your-life</id>
-        <link href="https://pinguz.github.io/post/this-is-your-life">
+        <title type="html"><![CDATA[飞过海洋、冰川]]></title>
+        <id>https://pinguz.github.io/post/riseup</id>
+        <link href="https://pinguz.github.io/post/riseup">
         </link>
-        <updated>2017-04-01T02:44:17.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>道理都知道 可惜做不到</p>
-</blockquote>
+        <updated>2018-07-18T11:49:24.000Z</updated>
+        <summary type="html"><![CDATA[<p>一款小游戏的背景设计，纸飞机飞过海洋、冰川</p>
 ]]></summary>
-        <content type="html"><![CDATA[<blockquote>
-<p>道理都知道 可惜做不到</p>
-</blockquote>
+        <content type="html"><![CDATA[<p>一款小游戏的背景设计，纸飞机飞过海洋、冰川</p>
 <!-- more -->
-<iframe src="https://player.vimeo.com/video/221275113" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/221275113">The Holstee Manifesto</a> from <a href="https://vimeo.com/zhaojingjing">pinguz</a> on <a href="https://vimeo.com">Vimeo</a>.</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[启动页设计]]></title>
-        <id>https://pinguz.github.io/post/56</id>
-        <link href="https://pinguz.github.io/post/56">
-        </link>
-        <updated>2016-11-01T13:51:05.000Z</updated>
-        <summary type="html"><![CDATA[<p>业务诉求：品牌年轻化、提高品质感</p>
-<blockquote>
-<p>运用年轻、有活力的元素来设计引导页，增加用户初次使用的亲切感</p>
-</blockquote>
-]]></summary>
-        <content type="html"><![CDATA[<p>业务诉求：品牌年轻化、提高品质感</p>
-<blockquote>
-<p>运用年轻、有活力的元素来设计引导页，增加用户初次使用的亲切感</p>
-</blockquote>
-<!-- more -->
-<p><img src="https://pinguz.github.io/post-images/1565618058369.png" /><img src="https://pinguz.github.io/post-images/1565618081909.gif" /><img src="https://pinguz.github.io/post-images/1565618089782.png" /><img src="https://pinguz.github.io/post-images/1565618105754.gif" /></p>
+<p><img src="https://pinguz.github.io/post-images/1565524344282.png" alt=""></p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[第三届搜狐视频出品人大会 宣传海报]]></title>
-        <id>https://pinguz.github.io/post/chu-pin-ren</id>
-        <link href="https://pinguz.github.io/post/chu-pin-ren">
+        <title type="html"><![CDATA[微信小游戏-抓娃娃]]></title>
+        <id>https://pinguz.github.io/post/gamedesign-zhuawawa</id>
+        <link href="https://pinguz.github.io/post/gamedesign-zhuawawa">
         </link>
-        <updated>2016-11-01T07:32:09.000Z</updated>
+        <updated>2018-04-14T14:40:18.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
-<p>根据大会需求，针对五个主要分类、以及主要出品人绘制了5张宣传海报</p>
+<p>风格偏写实类的小游戏设计，整个界面设计风格比较拟物化，模拟线下抓娃娃机器的操作，结合动效、音效，营造欢快的游戏氛围</p>
 </blockquote>
 ]]></summary>
         <content type="html"><![CDATA[<blockquote>
-<p>根据大会需求，针对五个主要分类、以及主要出品人绘制了5张宣传海报</p>
+<p>风格偏写实类的小游戏设计，整个界面设计风格比较拟物化，模拟线下抓娃娃机器的操作，结合动效、音效，营造欢快的游戏氛围</p>
 </blockquote>
 <!-- more -->
-<p><img src="https://pinguz.github.io/post-images/1565595561620.png" alt=""></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[App Preview]]></title>
-        <id>https://pinguz.github.io/post/app-preview</id>
-        <link href="https://pinguz.github.io/post/app-preview">
-        </link>
-        <updated>2016-10-03T13:11:21.000Z</updated>
-        <summary type="html"><![CDATA[<p>针对搜狐视频6.0全新改版上线设计的视频，放在Apple store上面</p>
-<blockquote>
-<p>主要用于推广自媒体频道，包括科技、星座、汽车、旅游、做饭、美妆等等<br>
-通过具有亲和力的动画效果，让用户快速了解每个频道的主打内容</p>
-</blockquote>
-]]></summary>
-        <content type="html"><![CDATA[<p>针对搜狐视频6.0全新改版上线设计的视频，放在Apple store上面</p>
-<blockquote>
-<p>主要用于推广自媒体频道，包括科技、星座、汽车、旅游、做饭、美妆等等<br>
-通过具有亲和力的动画效果，让用户快速了解每个频道的主打内容</p>
-</blockquote>
-<!-- more -->
+<p>线上抓娃娃机，成功后可以线下邮寄到家</p>
+<p><img src="https://pinguz.github.io/post-images/1565534700422.png" /><img src="https://pinguz.github.io/post-images/1565534705073.png" /><img src="https://pinguz.github.io/post-images/1565534735960.png" /><img src="https://pinguz.github.io/post-images/1565534740278.png" /></p>
 ]]></content>
     </entry>
 </feed>
