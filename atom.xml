@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pinguz.github.io</id>
     <title>Pinguz</title>
-    <updated>2019-08-12T03:10:26.775Z</updated>
+    <updated>2019-08-12T08:35:49.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pinguz.github.io"/>
     <link rel="self" href="https://pinguz.github.io/atom.xml"/>
@@ -363,6 +363,45 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[M站设计]]></title>
+        <id>https://pinguz.github.io/post/mobile</id>
+        <link href="https://pinguz.github.io/post/mobile">
+        </link>
+        <updated>2018-09-03T07:23:55.000Z</updated>
+        <summary type="html"><![CDATA[<p>M站是啥？主要是手机打开网页端的页面</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>M站是啥？主要是手机打开网页端的页面</p>
+<!-- more -->
+<blockquote>
+<p>M站设计的主要诉求就是为客户端引流、提高更多视频的曝光度、提高内容搜索排行<br>
+不得不说这个是做起来很没成就感的设计，改动不能太大，要跟移动端的设计尽量统一，能做的就是尽量简化页面模块，增加各种引导入口<br>
+<img src="https://pinguz.github.io/post-images/1565595010487.png" alt=""></p>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微动效设计]]></title>
+        <id>https://pinguz.github.io/post/gif</id>
+        <link href="https://pinguz.github.io/post/gif">
+        </link>
+        <updated>2017-07-04T07:49:13.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>一些弹层、刷新的小动效</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>一些弹层、刷新的小动效</p>
+</blockquote>
+<!-- more -->
+<p><img src="https://pinguz.github.io/post-images/1565596297986.gif" alt=""><br>
+<img src="https://pinguz.github.io/post-images/1565596306197.gif" alt=""><br>
+<img src="https://pinguz.github.io/post-images/1565596321183.gif" alt=""><br>
+<img src="https://pinguz.github.io/post-images/1565596327242.gif" alt=""><br>
+<img src="https://pinguz.github.io/post-images/1565596337861.gif" alt=""><br>
+<img src="https://pinguz.github.io/post-images/1565596332793.gif" alt=""></p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[This is your life]]></title>
         <id>https://pinguz.github.io/post/this-is-your-life</id>
         <link href="https://pinguz.github.io/post/this-is-your-life">
@@ -380,6 +419,44 @@
 <p><a href="https://vimeo.com/221275113">The Holstee Manifesto</a> from <a href="https://vimeo.com/zhaojingjing">pinguz</a> on <a href="https://vimeo.com">Vimeo</a>.</p>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[第三届搜狐视频出品人大会 宣传海报]]></title>
+        <id>https://pinguz.github.io/post/chu-pin-ren</id>
+        <link href="https://pinguz.github.io/post/chu-pin-ren">
+        </link>
+        <updated>2016-11-01T07:32:09.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>根据大会需求，针对五个主要分类、以及主要出品人绘制了5张宣传海报</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>根据大会需求，针对五个主要分类、以及主要出品人绘制了5张宣传海报</p>
+</blockquote>
+<!-- more -->
+<p><img src="https://pinguz.github.io/post-images/1565595561620.png" alt=""></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VR产品设计]]></title>
+        <id>https://pinguz.github.io/post/vr</id>
+        <link href="https://pinguz.github.io/post/vr">
+        </link>
+        <updated>2016-09-01T03:12:36.000Z</updated>
+        <summary type="html"><![CDATA[<p>第一次接触VR设计</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>第一次接触VR设计</p>
+<!-- more -->
+<p>首先是全景图，需要在3dMax的场景里创建一个摄像机，然后将导出的图片合成全景图。</p>
+<p>然后在Unity3D里加载场景图片，搭建UI控件，之前做界面都是X、Y两个纬度，这次多了一个Z轴，感觉还挺有意思的，而且设计上考虑的东西也不一样了，在眼镜端的操作界面里交互多是通过头部、眼部动作识别的，长时间的话很容易头晕，所以设计上尽量避免大幅度的交互。</p>
+<p>这个项目进行了大概半年时间，完成了眼镜端的界面、场景设计。后期主要是维护客户端更新。</p>
+<blockquote>
+<p>总体来说是一个有趣的项目，可以学习很多新知识，而且VR、AR真的蛮吸引人的。但是整体的体验还是不太舒适，长时间的话头部负重、视觉疲劳、头晕等症状还是很明显。</p>
+</blockquote>
+<p>未来一定会是虚拟现实的时代，但是任何先进的技术都是一把双刃剑。因为现代社会压力越大，人们就越倾向于逃避现实，虚拟现实会是大家解压、逃避的首选之路。</p>
+<p>希望虚拟现实技术不仅用于娱乐方面，也可以用在医疗、教育等更多的行业，可以用虚拟现实技术来帮助抑郁症的患者缓解病情。期待可以早点见证这些。<br>
+<img src="https://pinguz.github.io/post-images/1565582505644.png" alt=""></p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[智能手表管家-概念设计]]></title>
         <id>https://pinguz.github.io/post/smart-watch</id>
         <link href="https://pinguz.github.io/post/smart-watch">
@@ -394,32 +471,6 @@
 </blockquote>
 <!-- more -->
 <p><img src="https://pinguz.github.io/post-images/1565579373734.png" alt=""></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[运动类App设计]]></title>
-        <id>https://pinguz.github.io/post/sport-app</id>
-        <link href="https://pinguz.github.io/post/sport-app">
-        </link>
-        <updated>2014-06-01T02:54:06.000Z</updated>
-        <summary type="html"><![CDATA[<p>2014-2015主要参与了一款运动类型的产品设计，包括安卓手表端的产品。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>2014-2015主要参与了一款运动类型的产品设计，包括安卓手表端的产品。</p>
-<!-- more -->
-<blockquote>
-<p>这是一个很有活力的团队，沟通效率很高，感觉大家都是一群有相似点的年轻人。<br>
-在这家公司遇到的朋友们让我对互联网公司充满了美好的期待。</p>
-</blockquote>
-<p><img src="https://pinguz.github.io/post-images/1565578682080.png" alt=""></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All You Need Is Love]]></title>
-        <id>https://pinguz.github.io/post/all-you-need-is-love</id>
-        <link href="https://pinguz.github.io/post/all-you-need-is-love">
-        </link>
-        <updated>1967-07-07T02:23:18.000Z</updated>
-        <content type="html"><![CDATA[<p><a href=""></a>https://www.bilibili.com/video/av61143671?from=search&amp;seid=15366871509087930555</p>
 ]]></content>
     </entry>
 </feed>
