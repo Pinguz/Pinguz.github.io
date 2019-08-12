@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pinguz.github.io</id>
     <title>Pinguz</title>
-    <updated>2019-08-12T09:02:34.571Z</updated>
+    <updated>2019-08-12T09:03:34.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pinguz.github.io"/>
     <link rel="self" href="https://pinguz.github.io/atom.xml"/>
@@ -374,9 +374,9 @@
 <!-- more -->
 <blockquote>
 <p>M站设计的主要诉求就是为客户端引流、提高更多视频的曝光度、提高内容搜索排行<br>
-不得不说这个是做起来很没成就感的设计，改动不能太大，要跟移动端的设计尽量统一，能做的就是尽量简化页面模块，增加各种引导入口<br>
-<img src="https://pinguz.github.io/post-images/1565595010487.png" alt=""></p>
+不得不说这个是做起来很没成就感的设计，改动不能太大，要跟移动端的设计尽量统一，能做的就是尽量简化页面模块，增加各种引导入口</p>
 </blockquote>
+<p><img src="https://pinguz.github.io/post-images/1565595010487.png" alt=""></p>
 ]]></content>
     </entry>
     <entry>
