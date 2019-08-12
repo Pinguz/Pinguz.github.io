@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pinguz.github.io</id>
     <title>Pinguz</title>
-    <updated>2019-08-12T10:35:25.920Z</updated>
+    <updated>2019-08-12T10:48:05.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pinguz.github.io"/>
     <link rel="self" href="https://pinguz.github.io/atom.xml"/>
@@ -318,13 +318,13 @@
 <blockquote>
 <ol>
 <li>定制首屏，只推荐我感兴趣的内容，例如：新闻、电影、动漫之类，可以飘着弹幕；</li>
-<li>只显示图片，满屏的图片信息可供选择（瀑布流显示信息，一屏显示，可以不断刷新）。<br>
-<img src="https://pinguz.github.io/post-images/1565346474145.png" alt=""><br>
-<img src="https://pinguz.github.io/post-images/1565346480141.png" alt=""><br>
-<img src="https://pinguz.github.io/post-images/1565346485734.png" alt=""><br>
-这次只是初步的分析，都是浮于表面现象，接下来会针对局部的功能进行更深入的分析，敬请期待~</li>
+<li>只显示图片，满屏的图片信息可供选择（瀑布流显示信息，一屏显示，可以不断刷新）。</li>
 </ol>
 </blockquote>
+<p><img src="https://pinguz.github.io/post-images/1565346474145.png" alt=""><br>
+<img src="https://pinguz.github.io/post-images/1565346480141.png" alt=""><br>
+<img src="https://pinguz.github.io/post-images/1565346485734.png" alt=""><br>
+这次只是初步的分析，都是浮于表面现象，接下来会针对局部的功能进行更深入的分析，敬请期待~</p>
 ]]></content>
     </entry>
     <entry>
