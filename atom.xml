@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pinguz.github.io</id>
     <title>Pinguz</title>
-    <updated>2019-08-13T10:58:13.921Z</updated>
+    <updated>2019-08-13T11:33:52.758Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pinguz.github.io"/>
     <link rel="self" href="https://pinguz.github.io/atom.xml"/>
@@ -403,6 +403,45 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[「经验分享」小白的前端入门之路]]></title>
+        <id>https://pinguz.github.io/post/qian-duan-ru-men</id>
+        <link href="https://pinguz.github.io/post/qian-duan-ru-men">
+        </link>
+        <updated>2018-11-17T11:04:21.000Z</updated>
+        <summary type="html"><![CDATA[<p>虽然学完了课程但是感觉并没有入门，应该算是在前端的门口逛了逛</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>虽然学完了课程但是感觉并没有入门，应该算是在前端的门口逛了逛</p>
+<!-- more -->
+<blockquote>
+<p>2018年05月在Udacity上学习了前段入门课程，历时四个月终于毕业了，中途一度想要放弃，最后申请了延期才把课程全部学完，整体的流程体验还不错，就是最后收到通知说原本可以永久观看的教程，只保留1年有效期，这个规则跟下单购买课程时的承诺不符，感觉这个企业缺乏诚信。以后应该不会再在这个网站上购买课程了。</p>
+</blockquote>
+<h3 id="学习的初衷是想写一个个人网站">学习的初衷是想写一个个人网站</h3>
+<p>作为一个在互联网公司工作的<strong>设计师</strong>，一直以来都对编程很感兴趣，但是总感觉无从下手。感觉编程不像设计类的软件那样容易自学，而且为了节约时间成本、少走弯路，所以决定报一门网络课程来学习。</p>
+<blockquote>
+<p>在课程选择的时候，有两种选择，一种编程入门，主要介绍几种主流的编程语言，一种是前端入门，可惜在我犹豫不决时编程入门的课暂停了，不知何时才能再开班，于是报名了前端入门。</p>
+</blockquote>
+<p>前端工程师是我在工作中合作比较多的，感觉学起来难度应该不太大。</p>
+<p>在课程开始前期学习Html、css部分，感觉比较好理解，跟设计上的排版很相似。但当开始学习JavaScript时就发现之前太天真了。这个才是真正的编程语言，跟我之前养成的视觉化思维完全不同。</p>
+<p>学习的过程中遇到最大的挫折就是<strong>学完就忘</strong>，例如最后一个记忆游戏项目，课程内容很多，当我学到git相关内容时发现之前的课程都已忘记了，脑海中只留下关于这些概念的名词解释。这种体验实在是太打击学习热情了。导致中间有一段时间想要放弃学习。</p>
+<blockquote>
+<p>后来尝试预约了一对一指导，虽然很多内容还是不会，但是老师会告诉你现在的问题在哪里，如何去解决它。发现很多问题都是初学者会越到的，调整好心态继续学习。</p>
+</blockquote>
+<p>随着多看别人的代码，在课程中遇到的练习题也都自己重新写一遍，慢慢就会了，虽然写不好，但知道怎么去搜索相关内容了，最重要的是遇到问题不再害怕了。</p>
+<p>在申请课程延期两周后终于毕业了，真的很开心可以完成最后的项目。也感谢在课程给我很大帮助的老师们。</p>
+<h3 id="这次课程最大的收益">这次课程最大的收益：</h3>
+<ul>
+<li>发现了Markdown，在书写文字的时候不再被拍版所困扰，专心于写作本身，而且让文字更容易阅读与理解。真的是太方便了！</li>
+<li>发现了用shell来整理文件的方法，打破了我以往查找文件的方式。之前整理文件都是按视觉上能看到的方式归类，现在可以用不同的维度来查找、整理文件。</li>
+<li>之前的思维方式都是以视觉为主，比较偏向感性化，很多事情都是凭感觉来做。这次课程中让我发现更多关于逻辑的重要性，终于理解了工程师口中***代码的优雅***是什么意思了。</li>
+<li>最最重要的是遇到问题积极联系指导老师，得到的不仅是技术上还有学习方法上的指导。</li>
+</ul>
+<blockquote>
+<p>感觉语言就是一种思维方式，学习新的语言（无论是外语，还是编程语言）都会拓展你的思维方式，这个应该是本次经历最大的收获了。</p>
+</blockquote>
+<p>希望能给对编程入门感兴趣的朋友们带来帮助～</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[M站设计]]></title>
         <id>https://pinguz.github.io/post/mobile</id>
         <link href="https://pinguz.github.io/post/mobile">
@@ -454,24 +493,6 @@
         <content type="html"><![CDATA[<p>一款小游戏的背景设计，纸飞机飞过海洋、冰川</p>
 <!-- more -->
 <p><img src="https://pinguz.github.io/post-images/1565524344282.png" alt=""></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微信小游戏-抓娃娃]]></title>
-        <id>https://pinguz.github.io/post/gamedesign-zhuawawa</id>
-        <link href="https://pinguz.github.io/post/gamedesign-zhuawawa">
-        </link>
-        <updated>2018-04-14T14:40:18.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>风格偏写实类的小游戏设计，整个界面设计风格比较拟物化，模拟线下抓娃娃机器的操作，结合动效、音效，营造欢快的游戏氛围</p>
-</blockquote>
-]]></summary>
-        <content type="html"><![CDATA[<blockquote>
-<p>风格偏写实类的小游戏设计，整个界面设计风格比较拟物化，模拟线下抓娃娃机器的操作，结合动效、音效，营造欢快的游戏氛围</p>
-</blockquote>
-<!-- more -->
-<p>线上抓娃娃机，成功后可以线下邮寄到家</p>
-<p><img src="https://pinguz.github.io/post-images/1565534700422.png" /><img src="https://pinguz.github.io/post-images/1565534705073.png" /><img src="https://pinguz.github.io/post-images/1565534735960.png" /><img src="https://pinguz.github.io/post-images/1565534740278.png" /></p>
 ]]></content>
     </entry>
 </feed>
